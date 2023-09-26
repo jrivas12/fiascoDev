@@ -1,0 +1,65 @@
+Tetrahedron,3 | 2 3,Td,C15,W001,U01,K06,4,6,4,4{3}
+Triangular prism,2 3 | 2,D3h,C33a,—,U76a,K01a,6,9,5,2{3}+3{4}
+Truncated tetrahedron,2 3 | 3,Td,C16,W006,U02,K07,12,18,8,4{3}+4{6}
+Truncated cube,2 3 | 4,Oh,C21,W008,U09,K14,24,36,14,8{3}+6{8}
+Truncated dodecahedron,2 3 | 5,Ih,C29,W010,U26,K31,60,90,32,20{3}+12{10}
+Cube,3 | 2 4,Oh,C18,W003,U06,K11,8,12,6,6{4}
+Pentagonal prism,2 5 | 2,D5h,C33b,—,U76b,K01b,10,15,7,5{4}+2{5}
+Hexagonal prism,2 6 | 2,D6h,C33c,—,U76c,K01c,12,18,8,6{4}+2{6}
+Heptagonal prism,2 7 | 2,D7h,C33d,—,U76d,K01d,14,21,9,7{4}+2{7}
+Octagonal prism,2 8 | 2,D8h,C33e,—,U76e,K01e,16,24,10,8{4}+2{8}
+Enneagonal prism,2 9 | 2,D9h,C33f,—,U76f,K01f,18,27,11,9{4}+2{9}
+Decagonal prism,2 10 | 2,D10h,C33g,—,U76g,K01g,20,30,12,10{4}+2{10}
+Hendecagonal prism,2 11 | 2,D11h,C33h,—,U76h,K01h,22,33,13,11{4}+2{11}
+Dodecagonal prism,2 12 | 2,D12h,C33i,—,U76i,K01i,24,36,14,12{4}+2{12}
+Truncated octahedron,2 4 | 3,Oh,C20,W007,U08,K13,24,36,14,6{4}+8{6}
+Truncated cuboctahedron,2 3 4 |,Oh,C23,W015,U11,K16,48,72,26,12{4}+8{6}+6{8}
+Truncated icosidodecahedron,2 3 5 |,Ih,C31,W016,U28,K33,120,180,62,30{4}+20{6}+12{10}
+Dodecahedron,3 | 2 5,Ih,C26,W005,U23,K28,20,30,12,12{5}
+Truncated icosahedron,2 5 | 3,Ih,C27,W009,U25,K30,60,90,32,12{5}+20{6}
+Octahedron,4 | 2 3,Oh,C17,W002,U05,K10,6,12,8,8{3}
+Square antiprism,| 2 2 4,D4d,C34a,—,U77a,K02a,8,16,10,8{3}+2{4}
+Pentagonal antiprism,| 2 2 5,D5d,C34b,—,U77b,K02b,10,20,12,10{3}+2{5}
+Hexagonal antiprism,| 2 2 6,D6d,C34c,—,U77c,K02c,12,24,14,12{3}+2{6}
+Heptagonal antiprism,| 2 2 7,D7d,C34d,—,U77d,K02d,14,28,16,14{3}+2{7}
+Octagonal antiprism,| 2 2 8,D8d,C34e,—,U77e,K02e,16,32,18,16{3}+2{8}
+Enneagonal antiprism,| 2 2 9,D9d,C34f,—,U77f,K02f,18,36,20,18{3}+2{9}
+Decagonal antiprism,| 2 2 10,D10d,C34g,—,U77g,K02g,20,40,22,20{3}+2{10}
+Hendecagonal antiprism,| 2 2 11,D11d,C34h,—,U77h,K02h,22,44,24,22{3}+2{11}
+Dodecagonal antiprism,| 2 2 12,D12d,C34i,—,U77i,K02i,24,48,26,24{3}+2{12}
+Cuboctahedron,2 | 3 4,Oh,C19,W011,U07,K12,12,24,14,8{3}+6{4}
+Rhombicuboctahedron,3 4 | 2,Oh,C22,W013,U10,K15,24,48,26,8{3}+(6+12){4}
+Rhombicosidodecahedron,3 5 | 2,Ih,C30,W014,U27,K32,60,120,62,20{3}+30{4}+12{5}
+Icosidodecahedron,2 | 3 5,Ih,C28,W012,U24,K29,30,60,32,20{3}+12{5}
+Icosahedron,5 | 2 3,Ih,C25,W004,U22,K27,12,30,20,20{3}
+Snub cube,| 2 3 4,O,C24,W017,U12,K17,24,60,38,(8+24){3}+6{4}
+Snub dodecahedron,| 2 3 5,I,C32,W018,U29,K34,60,150,92,(20+60){3}+12{10}
+Octahemioctahedron,3/2 3 | 3,Oh,C37,W068,U03,K08,12,24,12,8{3}+4{6}
+Tetrahemihexahedron,3/2 3 | 2,Td,C36,W067,U04,K09,6,12,7,4{3}+3{4}
+Cubohemioctahedron,4/3 4 | 3,Oh,C51,W078,U15,K20,12,24,10,6{4}+4{6}
+Great dodecahedron,5/2 | 2 5,Ih,C44,W021,U35,K40,12,30,12,12{5}
+Great icosahedron,5/2 | 2 3,Ih,C69,W041,U53,K58,12,30,20,20{3}
+Great ditrigonal icosidodecahedron,3/2 | 3 5,Ih,C61,W087,U47,K52,20,60,32,20{3}+12{5}
+Small rhombihexahedron,2 4 (3/2 4/2) |,Oh,C60,W086,U18,K23,24,48,18,12{4}+6{8}
+Small cubicuboctahedron,3/2 4 | 4,Oh,C38,W069,U13,K18,24,48,20,8{3}+6{4}+6{8}
+Great rhombicuboctahedron,3/2 4 | 2,Oh,C59,W085,U17,K22,24,48,26,8{3}+(6+12){4}
+Small dodecahemiicosahedron,5/4 5 | 5,Ih,C65,W091,U51,K56,30,60,18,12{5}+6{10}
+Great dodecahemidodecahedron,5/4 5 | 3,Ih,C81,W102,U65,K70,30,60,22,12{5}+10{6}
+Small icosihemidodecahedron,3/2 3 | 5,Ih,C63,W089,U49,K54,30,60,26,20{3}+6{10}
+Small dodecicosahemidodecahedron,3/2 5 | 5,Ih,C42,W072,U33,K38,60,120,44,20{3}+12{5}+12{10}
+Rhombicosahedron,2 3 (5/4 5/2) |,Ih,C72,W096,U56,K61,60,120,50,30{4}+20{6}
+Great icosicosidodecahedron,3/2 3 | 5/3,Ih,C79,W101,U63,K68,60,120,52,20{3}+12{5}+20{6}
+Great rhombidodecahedron,2 5/2 (3/2 5/2) |,Ih,C89,W109,U73,K78,60,120,42,30{4}+12{10/3}
+Icosidodecahedron,2 5/3 (3/2 5/4) |,Ih,C91,W118,U72,K77,60,120,44,20{3}+12{5/2}+12{5/2}
+Small dodecicosahemidodecahedron,3/2 5 | 5,Ih,C90,W117,U74,K79,60,120,44,20{3}+12{5/2}+12{5/2}
+Great snub cube,| 2 3 4,I,C49,W111,U40,K45,60,150,84,60{3}+12{5}+12{5/2}
+Great inverted snub dodecahedron,| 2 3 5,I,C76,W114,U60,K65,60,150,84,60{3}+12{5}+12{5/2}
+Great snub icosidodecahedron,| 2 3 5,I,C73,W113,U57,K62,60,150,92,(20+60){3}+12{5/2}
+Great inverted snub icosidodecahedron,| 2 3 5,I,C88,W116,U69,K74,60,150,92,(20+60){3}+12{5/2}
+Great inverted snub icosidodecahedron,| 2 3 5,I,C80,W115,U64,K69,60,180,104,(20+60){3}+(12+12){5/2}
+Snub dodecahedron,| 5/3 2 5,I,C49,W111,U40,K45,60,150,84,(60+12){3}+12{5}+12{5/2}
+Great snub dodecahedron,| 3/2 5/2 5/3,I,C73,W113,U57,K62,60,150,92,(20+60){3}+12{5/2}
+Great retrosnub dodecahedron,| 3/2 5/2 5/4,I,C88,W116,U69,K74,60,150,92,(20+60){3}+12{5/2}
+Great retrosnub icosidodecahedron,| 3/2 5/2 5/4,I,C80,W115,U64,K69,60,180,104,(20+60){3}+(12+12){5/2}
+Great retrosnub icosidodecahedron,| 3/2 5/2 5/4,I,C90,W117,U74,K79,60,180,104,(20+60){3}+(12+12){5/2}
+Great retrosnub icosicosidodecahedron,| 3/2 5/3 3 5/2,I,C92,W119,U75,K80,60,240,124,40{3}+60{4}+24{5/2}
