@@ -1,6 +1,5 @@
 import time
 import random
-
 def generate_fireworks_pattern():
     patterns = [
         (r"""
@@ -72,14 +71,11 @@ def generate_fireworks_pattern():
        .    .   .   .
 """, "\033[90m"),  # Cyan
     ]
-
     return random.choice(patterns)
-
 def display_fireworks():
     fireworks, color_code = generate_fireworks_pattern()
     print(color_code + fireworks + "\033[0m")
     time.sleep(1)
-
 
 def generate_random_packet_details():
     source_ips = ["192.168.0.100", "10.0.0.2", "172.16.0.5", "10.20.30.40"]
@@ -88,7 +84,6 @@ def generate_random_packet_details():
     lengths = [random.randint(500, 2000), random.randint(300, 1000), random.randint(100, 500)]
     information = ["Normal traffic", "DDoS attack packets", "Suspicious activity"]
     tls_information = ["Not applicable", "TLS v1.2", "TLS v1.3"]
-
     return {
         "Source": random.choice(source_ips),
         "Destination": random.choice(destination_ips),
@@ -103,7 +98,6 @@ def show_packet_details():
     print("\n\033[1mPacket Details:\033[0m")
     for key, value in packet_details.items():
         print(f"\033[94m{key}:\033[0m {value}")
-
 while True:
     print("\033[1m----- DDoS Counter-Offensive Menu -----\033[0m")
     print("\033[94m1. Rate Limiting\033[0m")
@@ -118,7 +112,6 @@ while True:
     print("\033[93m10. TLS Mitigation\033[0m")
     print("\033[96mq. Quit\033[0m")
     print("\033[1m---------------------------------------\033[0m")
-
     user_choice = input("Enter the number of your choice (or 'q' to quit): ")
     if user_choice.lower() == "q":
         print("Exiting...")
@@ -166,9 +159,7 @@ while True:
     else:
         print("\033[91mInvalid choice. Please enter a valid number.\033[0m")
 
-
    # display_fireworks()
     
 if __name__ == "__main__":
     main()
-

@@ -1,0 +1,22 @@
+{
+  "1": {
+    "name": "Rate Limiting",
+    "description": "Rate Limiting: Rate limiting restricts the number of requests from a single IP address.\nBy setting a threshold, you can block or delay excessive requests from suspicious sources."
+  },
+  "2": {
+    "name": "Web Application Firewall (WAF)",
+    "description": "Web Application Firewall (WAF): A WAF can analyze incoming HTTP requests and filter out potentially malicious ones.\nIt helps protect the web server from common attack patterns and vulnerabilities."
+  },
+  "3": {
+    "name": "Anomaly Detection",
+    "description": "Anomaly Detection: Anomaly detection mechanisms can identify unusual traffic patterns.\nIt helps to detect DDoS attacks by monitoring traffic behavior and identifying deviations from normal traffic."
+  },
+  "4": {
+    "name": "Cloud-Based DDoS Protection",
+    "description": "Cloud-Based DDoS Protection: Leveraging cloud-based DDoS protection services can offload attack traffic away from the target server.\nCloud providers have robust infrastructure to absorb and mitigate large-scale DDoS attacks."
+  },
+  "5": {
+    "name": "Blackhole Routing",
+    "description": "Blackhole Routing: In severe DDoS attacks, blackhole routing can be used to drop traffic to the target IP address.\nThis approach takes the target offline temporarily, preventing collateral damage to the rest of the network."
+  }
+}

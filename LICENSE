@@ -175,18 +175,108 @@
 
    END OF TERMS AND CONDITIONS
 
-   APPENDIX: How to apply the Apache License to your work.
+=======================================================================
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+APPENDIX: 
 
-   Copyright [yyyy] [name of copyright owner]
+   This repository contains the following Python modules:
+
+   - `airplane_ticket.py`: Provides functions for managing airplane tickets.
+   - `animals.py`: Provides classes for different types of animals.
+   - `animals_upper.py`: Provides classes for different types of animals with uppercase names.
+   - `augmented.py`: Provides functions for augmenting data.
+   - `binary_converter.py`: Provides functions for converting numbers to binary.
+   - `bool_not_equal(but less than)`: Provides a function for comparing two numbers.
+   - `boolean1.py`: Provides a function for checking if a number is positive.
+   - `boolean2.py`: Provides a function for checking if a number is even.
+   - `boolean3.py`: Provides a function for checking if a number is odd.
+   - `boolean4.py`: Provides a function for checking if a number is a multiple of 3.
+   - `boolean5.py`: Provides a function for checking if a number is a multiple of 5.
+   - `boolean6.py`: Provides a function for checking if a number is a multiple of 7.
+   - `boolean7.py`: Provides a function for checking if a number is a multiple of 11.
+   - `calculate_monthly_average_rainfall.py`: Provides functions for calculating monthly average rainfall.
+   - `char_read_ansihexoct(backup).txt`: A backup file.
+   - `char_read_ansihexoct.txt`: Provides functions for reading characters in different formats.
+   - `combined_letters&digits.py`: Provides functions for combining letters and digits.
+   - `combined_letters&digits2.py`: Provides functions for combining letters and digits with uppercase letters.
+   - `conversion_alignment.py`: Provides functions for converting and aligning data.
+   - `conversion_alignment_upper.py`: Provides functions for converting and aligning data with uppercase letters.
+   - `convert_days.py`: Provides functions for converting days to seconds.
+   - `convert_to_uppercase.py`: Provides functions for converting text to uppercase.
+   - `count_occurrences.py`: Provides functions for counting occurrences of elements in a list.
+   - `counter_offensive(atomic).py`: Provides functions for counter-offensive measures.
+   - `counter_offensive(atomic_static).py`: Provides functions for counter-offensive measures with static data.
+   - `counter_offensive(atomic_static).txt`: Provides static data for counter-offensive measures.
+   - `counter_offensive(random_fireworks_colors).txt`: Provides data for counter-offensive measures.
+   - `counter_offensive.py`: Provides functions for counter-offensive measures.
+   - `data.bin`: A binary data file.
+   - `data_list_complex(update).py`: Provides functions for updating complex data lists.
+   - `data_list_complex(update)2.py`: Provides functions for updating complex data lists.
+   - `days.py`: Provides functions for calculating days.
+   - `dictionary_contacts.py`: Provides functions for managing contacts in a dictionary.
+   - `digit_format.py`: Provides functions for formatting digits.
+   - `distance.py`: Provides functions for calculating distance.
+   - `element_console.py`: Provides functions for displaying elements in the console.
+   - `element_data(unformated).py`: Provides unformatted data for elements.
+   - `elements1.py`: Provides classes for different types of elements.
+   - `elements2.py`: Provides classes for different types of elements.
+   - `elements3.py`: Provides classes for different types of elements.
+   - `elements_data.py`: Provides data for elements.
+   - `elements_data.txt`: Provides data for elements.
+   - `elements_file_read.py`: Provides functions for reading elements from a file.
+   - `even_odd_integer.py`: Provides functions for checking if a number is even or odd.
+   - `excersise_4.py`: Provides functions for solving exercise 4.
+   - `get_first_n_elements.py`: Provides functions for getting the first n elements of a list.
+   - `grades.txt`: A file containing grades.
+   - `integer.py`: Provides functions for working with integers.
+   - `interactive_jungle.py`: Provides functions for interacting with a jungle.
+   - `interactive_jungle.txt`: Provides data for interacting with a jungle.
+   - `lab1.2.py`: Provides functions for solving lab 1.2.
+   - `lab1.py`: Provides functions for solving lab 1.
+   - `languages.py`: Provides classes for different programming languages.
+   - `languages.py.txt`: Provides data for programming languages.
+   - `lexical_analysis.py`: Provides functions for performing lexical analysis.
+   - `mathpractice1.py`: Provides functions for practicing math.
+   - `message.py`: Provides functions for displaying messages.
+   - `multiples.py`: Provides functions for finding multiples of a number.
+   - `osi(basic_tabular).py`: Provides functions for working with the OSI model.
+   - `osi_model(master).py`: Provides functions for working with the OSI model.
+   - `osi_model.py`: Provides functions for working with the OSI model.
+   - `other.py`: Provides miscellaneous functions.
+   - `other_while(wrong chapter).py`: Provides functions for solving exercises.
+   - `polyhedra(beta).py.txt`: Provides data for polyhedra.
+   - `polyhedra(script).py.txt`: Provides data for polyhedra.
+   - `polyhedra.py`: Provides functions for working with polyhedra.
+   - `polyhedra.txt`: Provides data for polyhedra.
+   - `print_array[0].py`: Provides functions for printing arrays.
+   - `programming_lang.py.txt`: Provides data for programming languages.
+   - `range.py`: Provides functions for working with ranges.
+   - `readwriteappendgrades.py`: Provides functions for reading, writing, and appending grades to a file.
+   - `readwriteappendgrades.py.txt`: Provides data for reading, writing, and appending grades to a file.
+   - `registry_input.py`: Provides functions for managing registry input.
+   - `release_year.py`: Provides functions for calculating release years.
+   - `release_year_2.py`: Provides functions for calculating release years.
+   - `sentences_from_txt.py`: Provides functions for reading sentences from a file.
+   - `split_to_lines.py`: Provides functions for splitting text into lines.
+   - `syntax_cheatsheet(atomic).py`: Provides a syntax cheatsheet.
+   - `taskprogram.py`: Provides functions for solving tasks.
+   - `taskprogram.py.txt`: Provides data for solving tasks.
+   - `text.py`: Provides functions for working with text.
+   - `three grades with options.py.txt`: Provides data for grades.
+   - `treasure_hunt.py`: Provides functions for a treasure hunt game.
+   - `tuple_lab1.py`: Provides functions for solving tuple lab 1.
+   - `tuple_lab2.2.py`: Provides functions for solving tuple lab 2.
+   - `tuple_lab2.py`: Provides functions for solving tuple lab 2.
+   - `twowordsearch.py`: Provides functions for searching for two words in a text.
+   - `upper_last_four.py`: Provides functions for converting the last four characters of a string to uppercase.
+   - `user_try_elif.py`: Provides functions for user input.
+   - `while_not_auth.py`: Provides functions for user authentication.
+   - `while_not_auth_2.py`: Provides functions for user authentication.
+   - `write into grade file python.py.txt`: Provides data for writing grades to a file.
+
+=======================================================================
+
+   Copyright 2023 Joe L. Rivas
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
