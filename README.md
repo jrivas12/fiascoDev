@@ -32,5 +32,6 @@ You can also make one-time contributions via Cash App:
 Your support means a lot and will help me continue learning and sharing code with the community. Thank you!
 
 ---
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joeleerivas-teal.svg)](https://www.linkedin.com/in/joeleerivas)
+             
 Happy coding! 🚀
