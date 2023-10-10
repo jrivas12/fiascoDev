@@ -107,7 +107,7 @@ def read_element_groups(file_name):
             element_groups[group_number] = current_group
         elif line:
             element_data = line.split('\t')
-            current_group.append(element_data)
+   #         current_group.append(element_data)
 
     return element_groups
 
