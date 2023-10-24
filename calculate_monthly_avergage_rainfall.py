@@ -1,4 +1,3 @@
-
 def calculate_monthly_average_rainfall(list_of_annual_values):
     total_rainfall = sum(list_of_annual_values)
 	

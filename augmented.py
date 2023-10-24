@@ -1,4 +1,3 @@
-
 # Augmented assignment evaluation of a phrase using map
 phrase = "Hello, world! I hope you are doing good!"
 word_lengths = []
